@@ -1,0 +1,14 @@
+#container{
+   background-color: #ccc;
+   height: 200px;
+   display: flex;
+   flex-direction: column-reverse;
+      
+   
+          }
+.item{
+    background-color: #333;
+    color: #fff;
+    margin: 5px;
+    padding: 20px;
+     }
